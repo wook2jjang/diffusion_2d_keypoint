@@ -17,7 +17,7 @@ Diffusion 모델을 사용하여 증강된 키포인트 데이터를 생성, 평
 
 
 Fitness-AQA (Fitness Action Quality Assessment) [ECCV'22] 인용
-@inproceedings{parmar2022domain,
+>@inproceedings{parmar2022domain,
   title={Domain Knowledge-Informed Self-supervised Representations for Workout Form Assessment},
   author={Parmar, Paritosh and Gharat, Amol and Rhodin, Helge},
   booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXXVIII},
